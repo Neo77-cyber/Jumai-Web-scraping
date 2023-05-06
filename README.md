@@ -1,2 +1,2 @@
-This is a python script that scarpes five star phone rating from a Jumai page 
+This is a python script that scarpes five star phone rating from the Jumai website
 
